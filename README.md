@@ -12,9 +12,9 @@
 ## Description
 
 ### Objectives 
-* Create a website for your favorite band.
-* Add a sidebar for upcoming shows and style it so it stands out on the page.
-* Add images to the webpage and float them either to the left or right.
+* Create a webpage for an interior decorator.
+* Use floats to make columns to display information and pictures for "before", "during" and "after" renovations.
+* 
 
 ## Setup/Installation Requirements
 
