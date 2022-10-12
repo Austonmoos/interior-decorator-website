@@ -1,3 +1,10 @@
+body {
+  text-align: center;
+}
+.wrapper {
+  width: 100%;
+}
+
 .before {
   width: 30%;
   float: left;
