@@ -1,8 +1,8 @@
-# Interior decorator website
+# Interior Decorator Website
 
 #### By Auston Moos & Kirsten Opstad
 
-#### A website for Interior decorating
+#### A website for interior decorating
 
 ## Technologies Used
 
@@ -14,7 +14,6 @@
 ### Objectives 
 * Create a webpage for an interior decorator.
 * Use floats to make columns to display information and pictures for "before", "during" and "after" renovations.
-* 
 
 ## Setup/Installation Requirements
 
