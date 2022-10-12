@@ -2,18 +2,33 @@
   width: 30%;
   float: left;
   background-color: aquamarine;
+  border: solid black;
+  margin-bottom: 10px;
+  border-width: thin;
+  padding: 20px;
+  box-sizing: border-box;
 }
 
 .during {
   width: 30%;
   float: left;
   background-color: aqua;
+  border: solid black;
+  margin-bottom: 10px;
+  border-width: thin;
+  padding: 20px;
+  box-sizing: border-box;
 }
 
 .after {
   width: 30%;
   float: left;
   background-color: lightseagreen;
+  border: solid black;
+  margin-bottom: 10px;
+  border-width: thin;
+  padding: 20px;
+  box-sizing: border-box;
 }
 
 img {
